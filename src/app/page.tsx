@@ -1,7 +1,6 @@
 'use client';
 
 import { BackgroundBeams } from "@/app/components/BackgroundBeams";
-import Image from "next/image";
 import LogoLight from "@/app/components/Logo";
 
 export default function Home() {
