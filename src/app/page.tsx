@@ -11,7 +11,7 @@ export default function Home() {
           <LogoLight className="w-32 h-auto md:w-48 lg:w-56" />
         </div>
         <h1 className="relative z-10 text-4xl md:text-6xl lg:text-7xl bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600 font-bold leading-tight">
-          Unlock Your Financial Future with AI
+          Empowering Your Financial Future with AI-Driven Insights.
         </h1>
       </div>
       <BackgroundBeams />
